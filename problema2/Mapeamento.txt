@@ -1,10 +1,4 @@
-Padrão de projeto Observer
+﻿Padrão de projeto Observer
 
 Foram adicionados duas interfaces Subject e Observer, no qual o subject tem a responsabilidade de gerenciar os objetos notificadores e o observer apenas tem o método de notificar, sendo assim identificamos que os serviços seriam responsáveis por notificar implementando assim o Observer e a ContaCorrente seria responsável por gerenciar os serviços sendo assim o Subject.
 
-+-*+-*+-*+-*+-*+-*+-*+-*
-Observações do Professor:
-Parabéns!
-- a classe Principal não é de testes, mas demonstra a implementação realizada.
-
-Nota (0-3): 3,0
